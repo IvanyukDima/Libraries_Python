@@ -1,2 +1,2 @@
-# python_basic_09_04_20
-Basic python lesson1
+# Python for Data Science: Numpy, Matplotlib, Scikit-learn
+
